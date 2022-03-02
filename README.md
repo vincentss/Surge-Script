@@ -2,9 +2,9 @@
 ### Install Module
 #### BiliBili
 ```
-https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/module/bilibili.sgmodule
+https://raw.githubusercontent.com/vincentss/Surge-Script/master/module/bilibili.sgmodule
 ```
 #### ZhiHu
 ```
-https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/module/zhihu.sgmodule
+https://raw.githubusercontent.com/vincentss/Surge-Script/master/module/zhihu.sgmodule
 ```
